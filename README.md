@@ -6,6 +6,8 @@
 ![image](https://github.com/user-attachments/assets/820bd166-4377-4e69-8c50-c6a7dae96a65)
 #### Looking at the graph, it shows that for normal task processing commands such as addition, subtraction, multiplication, and division, the CPU is comparable to the GPU (though in terms of cost, the CPU is more advantageous). However, for 3D tasks and image processing, the GPU is definitely much faster than the CPU.
 ![image](https://github.com/user-attachments/assets/51074ac7-8efe-4aef-b182-df4a21f6836a)
+![image](https://github.com/user-attachments/assets/07afda81-ec22-472e-816e-f629c685ebf2)
+
 
 
 
